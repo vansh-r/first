@@ -1,3 +1,3 @@
 # first
-auther vansh 
-new things 
+new things.
+author- vansh ramteke 
